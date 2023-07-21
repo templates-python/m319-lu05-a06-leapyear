@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "impossible",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -k \"test_oddyear\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "impossible",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -k \"test_four\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "impossible",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -k \"test_hundred\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "impossible",
+      "setup": "sudo -H pip3 install -r requirements.txt",
+      "run": "pytest -k \"test_fourhundred\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
