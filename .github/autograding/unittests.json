@@ -1,25 +1,25 @@
 [
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_oddyear",
+    "function": "test_oddyear",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_four",
+    "function": "test_four",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_hundered",
+    "function": "test_hundered",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_fourhundered",
+    "function": "test_fourhundered",
     "timeout": 10,
     "points": 1
   }
